@@ -3,7 +3,7 @@
 This project contains implementations of various **fundamental algorithms** in Java, including **graph traversal, sorting, optimization, and scheduling algorithms**. The program allows users to **select an algorithm** and execute it dynamically.
 
 ## 📌 Features
-
+ 
 - **Graph Algorithms**: BFS, Kruskal’s MST
 - **Sorting Algorithms**: Quick Sort
 - **Optimization Problems**: Stable Matching, Weighted Interval Scheduling

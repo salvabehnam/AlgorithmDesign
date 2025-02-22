@@ -15,15 +15,15 @@ This project contains implementations of various **fundamental algorithms** in J
     ├── src/
     │   ├── Main.java                        # Entry point for selecting and running algorithms
     │   ├── Algorithms/
-    │   │   ├── BFS.java                     # Breadth-First Search (Graph Traversal)
-    │   │   ├── Cashier.java                 # Greedy Algorithm for Minimum Denominations
-    │   │   ├── Kruskal.java                 # Kruskal’s Algorithm for Minimum Spanning Tree
-    │   │   ├── QuickSort.java               # Quick Sort Algorithm
-    │   │   ├── StableMatching.java          # Stable Matching Algorithm (Gale-Shapley)
-    │   │   ├── WeightedIntervalScheduling.java # Dynamic Programming: Weighted Interval Scheduling
-    ├── AlgorithmProject.iml                 # IntelliJ IDEA project file
-    ├── README.md                            # Project Documentation
-
+    │   │   ├── BFS.java                             # Breadth-First Search (Graph Traversal)
+    │   │   ├── Cashier.java                         # Greedy Algorithm for Minimum Denominations
+    │   │   ├── Kruskal.java                         # Kruskal’s Algorithm for Minimum Spanning Tree
+    │   │   ├── QuickSort.java                       # Quick Sort Algorithm
+    │   │   ├── StableMatching.java                  # Stable Matching Algorithm (Gale-Shapley)
+    │   │   ├── WeightedIntervalScheduling.java      # Dynamic Programming: Weighted Interval Scheduling
+    ├── AlgorithmProject.iml                 
+    ├── README.md                           
+    
 ## 🚀 Installation & Usage
 
 1. **Clone the Repository**

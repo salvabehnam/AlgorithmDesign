@@ -8,7 +8,6 @@ This project contains implementations of various **fundamental algorithms** in J
 - **Sorting Algorithms**: Quick Sort
 - **Optimization Problems**: Stable Matching, Weighted Interval Scheduling
 - **Greedy Algorithms**: Cashier’s Algorithm for minimum denominations
-- **Interactive CLI**: Users can select algorithms and provide input.
 
 ## 📂 Project Structure
 
@@ -102,14 +101,34 @@ This project contains implementations of various **fundamental algorithms** in J
 
 ## 🔹 Sample Execution
 
+
 ```plaintext
-Enter File path you need to save:
-D:\File.txt
-Select Your Algorithm:
-1. Stable Matching
-2. BFS
-3. Cashier
-4. Kruskal
-5. Quick Sort
-6. Weighted Interval Scheduling
-7. Exit
+    Select Your Algorithm:
+    1. Stable Matching
+    2. BFS
+    3. Cashier
+    4. Kruskal
+    5. Quick Sort
+    6. Weighted Interval Scheduling
+    7. Exit
+```
+
+For example, if you select BFS, the program will prompt:
+
+```plaintext
+    Enter vertex count and starting vertex:
+    5 0
+    Enter Edge Count:
+    4
+    Enter Edges: [Starting Node, Ending Node]
+    0,1
+    0,2
+    1,3
+    2,4
+```
+
+ BFS Expected Output:
+```plaintext
+     Following is Breadth First Traversal (starting from vertex 0):
+     0 1 2 3 4
+```
